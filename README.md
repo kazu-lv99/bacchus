@@ -33,7 +33,20 @@ Bacchusはお酒限定の投稿サービスである。</br>
 </ul>
 
 # 開発環境
-
 ## 使用言語・データベース
+<ul>
+  <li>PHP Version 7.4.1</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>javascript</li>
+  <li>MySQL</li>
+</ul>
 
 ## 使用ツール・ライブラリ
+<ul>
+  <li>jQuery</li>
+  <li>VSCode (Visual Studio Code)</li>
+  <li>MAMP</li>
+  <li>Google Fonts</li>
+  <li>Font Awesome</li>
+</ul>
