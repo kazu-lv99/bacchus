@@ -50,3 +50,5 @@ Bacchusはお酒限定の投稿サービスである。</br>
   <li>Google Fonts</li>
   <li>Font Awesome</li>
 </ul>
+## Author
+[kazu.lv99](https://twitter.com/lv99_kazu)
