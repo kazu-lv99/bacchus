@@ -1,4 +1,6 @@
 # Bacchus
+Bacchusはお酒限定の投稿Webアプリ。</br>
+Bacchusへのリンクは
 [こちら](https://www.kazu-lv99.com/Bacchus/index.php)
 
 ## Description
